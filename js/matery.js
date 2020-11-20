@@ -77,9 +77,6 @@ $(function () {
             $(this).wrap('<div class="img-item" data-src="' + imgPath + '" data-sub-html=".caption"></div>');
             // 图片添加阴影
             $(this).addClass("img-shadow img-margin");
-            if ($(this).attr('src').indexOf("yuque") > 0 ) {
-              $(this).attr("referrerpolicy","no-referrer");
-            }
             // 图片添加字幕
             let alt = $(this).attr('alt');
             let title = $(this).attr('title');
