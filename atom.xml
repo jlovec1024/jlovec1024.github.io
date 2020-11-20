@@ -3,11 +3,11 @@
   <title>JLoveC</title>
   
   
-  <link href="http://jlovec1024.github.io/atom.xml" rel="self"/>
+  <link href="https://jlovec.net/atom.xml" rel="self"/>
   
-  <link href="http://jlovec1024.github.io/"/>
-  <updated>2020-11-20T01:21:02.068Z</updated>
-  <id>http://jlovec1024.github.io/</id>
+  <link href="https://jlovec.net/"/>
+  <updated>2020-11-20T01:27:45.553Z</updated>
+  <id>https://jlovec.net/</id>
   
   <author>
     <name>Joey Wang</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>test2</title>
-    <link href="http://jlovec1024.github.io/2020/11/20/test2/"/>
-    <id>http://jlovec1024.github.io/2020/11/20/test2/</id>
+    <link href="https://jlovec.net/2020/11/20/test2/"/>
+    <id>https://jlovec.net/2020/11/20/test2/</id>
     <published>2020-11-19T22:25:38.000Z</published>
-    <updated>2020-11-20T01:21:02.068Z</updated>
+    <updated>2020-11-20T01:27:45.553Z</updated>
     
     
       
@@ -39,10 +39,10 @@
   
   <entry>
     <title>test1</title>
-    <link href="http://jlovec1024.github.io/2020/11/20/test1/"/>
-    <id>http://jlovec1024.github.io/2020/11/20/test1/</id>
+    <link href="https://jlovec.net/2020/11/20/test1/"/>
+    <id>https://jlovec.net/2020/11/20/test1/</id>
     <published>2020-11-19T21:26:24.000Z</published>
-    <updated>2020-11-20T01:21:02.072Z</updated>
+    <updated>2020-11-20T01:27:45.553Z</updated>
     
     
       
