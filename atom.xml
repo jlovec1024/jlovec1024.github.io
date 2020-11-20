@@ -6,7 +6,7 @@
   <link href="https://jlovec.net/atom.xml" rel="self"/>
   
   <link href="https://jlovec.net/"/>
-  <updated>2020-11-20T07:42:58.760Z</updated>
+  <updated>2020-11-20T07:44:01.809Z</updated>
   <id>https://jlovec.net/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>测试ada</title>
+    <link href="https://jlovec.net/2020/11/20/ce-shi-ada/"/>
+    <id>https://jlovec.net/2020/11/20/ce-shi-ada/</id>
+    <published>2020-11-20T07:42:52.000Z</published>
+    <updated>2020-11-20T07:44:01.809Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;奥术大师&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>test2</title>
     <link href="https://jlovec.net/2020/11/20/test2/"/>
     <id>https://jlovec.net/2020/11/20/test2/</id>
     <published>2020-11-19T22:25:38.000Z</published>
-    <updated>2020-11-20T07:42:58.760Z</updated>
+    <updated>2020-11-20T07:44:01.817Z</updated>
     
     
       
@@ -42,7 +64,7 @@
     <link href="https://jlovec.net/2020/11/20/test1/"/>
     <id>https://jlovec.net/2020/11/20/test1/</id>
     <published>2020-11-19T21:26:24.000Z</published>
-    <updated>2020-11-20T07:42:58.764Z</updated>
+    <updated>2020-11-20T07:44:01.817Z</updated>
     
     
       
