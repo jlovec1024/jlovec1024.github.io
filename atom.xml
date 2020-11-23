@@ -6,7 +6,7 @@
   <link href="https://jlovec.net/atom.xml" rel="self"/>
   
   <link href="https://jlovec.net/"/>
-  <updated>2020-11-23T07:43:25.356Z</updated>
+  <updated>2020-11-23T08:22:07.663Z</updated>
   <id>https://jlovec.net/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://jlovec.net/2020/11/23/docker-da-jian-svn/"/>
     <id>https://jlovec.net/2020/11/23/docker-da-jian-svn/</id>
     <published>2020-11-23T07:17:48.000Z</published>
-    <updated>2020-11-23T07:43:25.356Z</updated>
+    <updated>2020-11-23T08:22:07.663Z</updated>
     
     
       
@@ -48,7 +48,7 @@
     <link href="https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/"/>
     <id>https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/</id>
     <published>2020-11-23T07:15:48.000Z</published>
-    <updated>2020-11-23T07:43:25.360Z</updated>
+    <updated>2020-11-23T08:22:07.675Z</updated>
     
     
       
@@ -70,11 +70,37 @@ svn co</summary>
   </entry>
   
   <entry>
+    <title>git删除远程Tag、分支</title>
+    <link href="https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/"/>
+    <id>https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/</id>
+    <published>2020-03-26T06:29:12.000Z</published>
+    <updated>2020-11-23T08:22:07.687Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;删除远程-Tag&quot;&gt;&lt;a href=&quot;#删除远程-Tag&quot; class=&quot;headerlink&quot; title=&quot;删除远程 Tag&quot;&gt;&lt;/a&gt;删除远程 Tag&lt;/h2&gt;&lt;p&gt;显示本地 tag&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;git</summary>
+        
+      
+    
+    
+    
+    <category term="版本管理" scheme="https://jlovec.net/categories/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/"/>
+    
+    
+    <category term="git" scheme="https://jlovec.net/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
     <title>docker 镜像加速配置</title>
     <link href="https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/"/>
     <id>https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/</id>
     <published>2020-03-21T14:27:53.000Z</published>
-    <updated>2020-11-23T07:43:25.428Z</updated>
+    <updated>2020-11-23T08:22:07.759Z</updated>
     
     
       
@@ -95,6 +121,27 @@ svn co</summary>
     <category term="docker" scheme="https://jlovec.net/tags/docker/"/>
     
     <category term="image" scheme="https://jlovec.net/tags/image/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue.js 笔记</title>
+    <link href="https://jlovec.net/2020/01/21/vue.js-bi-ji/"/>
+    <id>https://jlovec.net/2020/01/21/vue.js-bi-ji/</id>
+    <published>2020-01-21T02:31:06.000Z</published>
+    <updated>2020-11-23T08:22:08.499Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;常用指令&quot;&gt;&lt;a href=&quot;#常用指令&quot; class=&quot;headerlink&quot; title=&quot;常用指令&quot;&gt;&lt;/a&gt;常用指令&lt;/h1&gt;&lt;h2 id=&quot;v-bind&quot;&gt;&lt;a href=&quot;#v-bind&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
     
   </entry>
   

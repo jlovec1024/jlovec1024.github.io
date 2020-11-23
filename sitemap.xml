@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jlovec.net/2020/01/21/vue.js-bi-ji/</loc>
+    
+    <lastmod>2020-11-23</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/</loc>
+    
+    <lastmod>2020-11-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/</loc>
     
     <lastmod>2020-11-23</lastmod>
     
@@ -117,6 +131,13 @@
   
   <url>
     <loc>https://jlovec.net/tags/image/</loc>
+    <lastmod>2020-11-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/tags/git/</loc>
     <lastmod>2020-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
