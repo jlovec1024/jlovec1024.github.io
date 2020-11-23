@@ -6,7 +6,7 @@
   <link href="https://jlovec.net/atom.xml" rel="self"/>
   
   <link href="https://jlovec.net/"/>
-  <updated>2020-11-23T07:35:17.063Z</updated>
+  <updated>2020-11-23T07:43:25.356Z</updated>
   <id>https://jlovec.net/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://jlovec.net/2020/11/23/docker-da-jian-svn/"/>
     <id>https://jlovec.net/2020/11/23/docker-da-jian-svn/</id>
     <published>2020-11-23T07:17:48.000Z</published>
-    <updated>2020-11-23T07:35:17.063Z</updated>
+    <updated>2020-11-23T07:43:25.356Z</updated>
     
     
       
@@ -48,7 +48,7 @@
     <link href="https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/"/>
     <id>https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/</id>
     <published>2020-11-23T07:15:48.000Z</published>
-    <updated>2020-11-23T07:35:17.071Z</updated>
+    <updated>2020-11-23T07:43:25.360Z</updated>
     
     
       
@@ -66,6 +66,35 @@ svn co</summary>
     
     
     <category term="svn" scheme="https://jlovec.net/tags/svn/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>docker 镜像加速配置</title>
+    <link href="https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/"/>
+    <id>https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/</id>
+    <published>2020-03-21T14:27:53.000Z</published>
+    <updated>2020-11-23T07:43:25.428Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;国内从 Docker Hub 拉取镜像有时会遇到困难，此时可以配置镜像加速器。国内很多云服务商都提供了国内加速器服务，例如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="docker" scheme="https://jlovec.net/categories/docker/"/>
+    
+    
+    <category term="docker" scheme="https://jlovec.net/tags/docker/"/>
+    
+    <category term="image" scheme="https://jlovec.net/tags/image/"/>
     
   </entry>
   

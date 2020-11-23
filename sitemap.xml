@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/</loc>
+    
+    <lastmod>2020-11-23</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/</loc>
     
     <lastmod>2020-11-23</lastmod>
@@ -108,10 +115,24 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://jlovec.net/tags/image/</loc>
+    <lastmod>2020-11-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://jlovec.net/categories/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2020-11-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/categories/docker/</loc>
     <lastmod>2020-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
