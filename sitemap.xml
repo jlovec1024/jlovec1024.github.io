@@ -94,6 +94,27 @@
   </url>
 
   
+  <url>
+    <loc>https://jlovec.net/tags/svn/</loc>
+    <lastmod>2020-11-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/tags/docker/</loc>
+    <lastmod>2020-11-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://jlovec.net/categories/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2020-11-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>

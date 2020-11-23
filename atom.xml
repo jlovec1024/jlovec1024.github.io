@@ -6,7 +6,7 @@
   <link href="https://jlovec.net/atom.xml" rel="self"/>
   
   <link href="https://jlovec.net/"/>
-  <updated>2020-11-23T07:34:05.379Z</updated>
+  <updated>2020-11-23T07:35:02.339Z</updated>
   <id>https://jlovec.net/</id>
   
   <author>
@@ -21,20 +21,25 @@
     <link href="https://jlovec.net/2020/11/23/docker-da-jian-svn/"/>
     <id>https://jlovec.net/2020/11/23/docker-da-jian-svn/</id>
     <published>2020-11-23T07:17:48.000Z</published>
-    <updated>2020-11-23T07:34:05.379Z</updated>
+    <updated>2020-11-23T07:35:02.339Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;tags: [svn, docker]&lt;br&gt;categories: [版本管理]&lt;/p&gt;
-&lt;h2 id=&quot;一、简述&quot;&gt;&lt;a href=&quot;#一、简述&quot; class=&quot;headerlink&quot; title=&quot;一、简述&quot;&gt;&lt;/a&gt;一、简述&lt;/h2&gt;&lt;h3</summary>
+    <summary type="html">&lt;h2 id=&quot;一、简述&quot;&gt;&lt;a href=&quot;#一、简述&quot; class=&quot;headerlink&quot; title=&quot;一、简述&quot;&gt;&lt;/a&gt;一、简述&lt;/h2&gt;&lt;h3 id=&quot;1-基础环境&quot;&gt;&lt;a href=&quot;#1-基础环境&quot; class=&quot;headerlink&quot; title=&quot;1.</summary>
         
       
     
     
     
+    <category term="版本管理" scheme="https://jlovec.net/categories/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/"/>
+    
+    
+    <category term="svn" scheme="https://jlovec.net/tags/svn/"/>
+    
+    <category term="docker" scheme="https://jlovec.net/tags/docker/"/>
     
   </entry>
   
@@ -43,20 +48,24 @@
     <link href="https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/"/>
     <id>https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/</id>
     <published>2020-11-23T07:15:48.000Z</published>
-    <updated>2020-11-23T07:34:05.383Z</updated>
+    <updated>2020-11-23T07:35:02.343Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;tags: [svn]&lt;br&gt;categories: [版本管理]&lt;/p&gt;
-&lt;pre class=&quot; language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token comment&quot;</summary>
+    <summary type="html">&lt;pre class=&quot; language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token comment&quot; spellcheck=&quot;true&quot;&gt;# checkout代码&lt;/span&gt;
+svn co</summary>
         
       
     
     
     
+    <category term="版本管理" scheme="https://jlovec.net/categories/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/"/>
+    
+    
+    <category term="svn" scheme="https://jlovec.net/tags/svn/"/>
     
   </entry>
   
