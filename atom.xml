@@ -6,7 +6,7 @@
   <link href="https://jlovec.net/atom.xml" rel="self"/>
   
   <link href="https://jlovec.net/"/>
-  <updated>2020-11-23T08:22:07.663Z</updated>
+  <updated>2020-11-23T08:30:37.395Z</updated>
   <id>https://jlovec.net/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://jlovec.net/2020/11/23/docker-da-jian-svn/"/>
     <id>https://jlovec.net/2020/11/23/docker-da-jian-svn/</id>
     <published>2020-11-23T07:17:48.000Z</published>
-    <updated>2020-11-23T08:22:07.663Z</updated>
+    <updated>2020-11-23T08:30:37.395Z</updated>
     
     
       
@@ -48,7 +48,7 @@
     <link href="https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/"/>
     <id>https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/</id>
     <published>2020-11-23T07:15:48.000Z</published>
-    <updated>2020-11-23T08:22:07.675Z</updated>
+    <updated>2020-11-23T08:30:37.399Z</updated>
     
     
       
@@ -74,7 +74,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/"/>
     <id>https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/</id>
     <published>2020-03-26T06:29:12.000Z</published>
-    <updated>2020-11-23T08:22:07.687Z</updated>
+    <updated>2020-11-23T08:30:37.407Z</updated>
     
     
       
@@ -100,7 +100,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/"/>
     <id>https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/</id>
     <published>2020-03-21T14:27:53.000Z</published>
-    <updated>2020-11-23T08:22:07.759Z</updated>
+    <updated>2020-11-23T08:30:37.463Z</updated>
     
     
       
@@ -129,7 +129,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/01/21/vue.js-bi-ji/"/>
     <id>https://jlovec.net/2020/01/21/vue.js-bi-ji/</id>
     <published>2020-01-21T02:31:06.000Z</published>
-    <updated>2020-11-23T08:22:08.499Z</updated>
+    <updated>2020-11-23T08:30:38.051Z</updated>
     
     
       
@@ -142,6 +142,33 @@ svn co</summary>
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>删除 systemd journal 日志</title>
+    <link href="https://jlovec.net/2020/01/06/shan-chu-systemd-journal-ri-zhi/"/>
+    <id>https://jlovec.net/2020/01/06/shan-chu-systemd-journal-ri-zhi/</id>
+    <published>2020-01-06T07:58:08.000Z</published>
+    <updated>2020-11-23T08:30:38.067Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;查看现有的-journal-日志&quot;&gt;&lt;a href=&quot;#查看现有的-journal-日志&quot; class=&quot;headerlink&quot; title=&quot;查看现有的 journal 日志&quot;&gt;&lt;/a&gt;查看现有的 journal 日志&lt;/h2&gt;&lt;pre class=&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="linux" scheme="https://jlovec.net/categories/linux/"/>
+    
+    
+    <category term="systemd" scheme="https://jlovec.net/tags/systemd/"/>
+    
+    <category term="log" scheme="https://jlovec.net/tags/log/"/>
     
   </entry>
   

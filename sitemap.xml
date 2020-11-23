@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jlovec.net/2020/01/06/shan-chu-systemd-journal-ri-zhi/</loc>
+    
+    <lastmod>2020-11-23</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jlovec.net/2020/01/21/vue.js-bi-ji/</loc>
     
     <lastmod>2020-11-23</lastmod>
@@ -31,6 +38,13 @@
   
   <url>
     <loc>https://jlovec.net/2020/11/23/docker-da-jian-svn/</loc>
+    
+    <lastmod>2020-11-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/timeline/index.html</loc>
     
     <lastmod>2020-11-23</lastmod>
     
@@ -99,13 +113,6 @@
     
   </url>
   
-  <url>
-    <loc>https://jlovec.net/timeline/index.html</loc>
-    
-    <lastmod>2020-11-23</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://jlovec.net/</loc>
@@ -143,6 +150,20 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://jlovec.net/tags/systemd/</loc>
+    <lastmod>2020-11-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/tags/log/</loc>
+    <lastmod>2020-11-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -154,6 +175,13 @@
   
   <url>
     <loc>https://jlovec.net/categories/docker/</loc>
+    <lastmod>2020-11-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/categories/linux/</loc>
     <lastmod>2020-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

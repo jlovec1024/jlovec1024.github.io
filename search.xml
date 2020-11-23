@@ -119,6 +119,33 @@
     </entry>
     
     
+    
+    <entry>
+      <title>删除 systemd journal 日志</title>
+      <link href="2020/01/06/shan-chu-systemd-journal-ri-zhi/"/>
+      <url>2020/01/06/shan-chu-systemd-journal-ri-zhi/</url>
+      
+        <content type="html"><![CDATA[<h2 id="查看现有的-journal-日志"><a href="#查看现有的-journal-日志" class="headerlink" title="查看现有的 journal 日志"></a>查看现有的 journal 日志</h2><pre class=" language-bash"><code class="language-bash"><span class="token comment" spellcheck="true"># 查看日志的大小</span>$ <span class="token function">du</span> -hs /var/log/journal/4.1G    /var/log/journal/<span class="token comment" spellcheck="true"># 4.1GB worth of journal files, with the oldest dating back over 2 months.</span><span class="token comment" spellcheck="true"># 查看最大的日志文件</span>$ <span class="token function">ls</span> -lath /var/log/journal/*/ <span class="token operator">|</span> <span class="token function">tail</span> -n 2-rw-r-x---+ 1 root systemd-journal 8.0M Dec 24 05:15 user-xxx.journal</code></pre><h2 id="删除-10-天之前的-systemd-journals-日志"><a href="#删除-10-天之前的-systemd-journals-日志" class="headerlink" title="删除 10 天之前的 systemd journals 日志"></a>删除 10 天之前的 systemd journals 日志</h2><pre class=" language-bash"><code class="language-bash">$ journalctl --vacuum-time<span class="token operator">=</span>10d<span class="token punctuation">..</span>.Vacuuming done, freed 2.3G of archived journals on disk.</code></pre><h2 id="根据文件大小删除-systemd-journals"><a href="#根据文件大小删除-systemd-journals" class="headerlink" title="根据文件大小删除 systemd journals"></a>根据文件大小删除 systemd journals</h2><pre class=" language-bash"><code class="language-bash">$ journalctl --vacuum-size<span class="token operator">=</span>2G<span class="token punctuation">..</span>.Vacuuming done, freed 720.0M of archived journals on disk.</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> systemd </tag>
+            
+            <tag> log </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
