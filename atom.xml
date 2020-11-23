@@ -6,7 +6,7 @@
   <link href="https://jlovec.net/atom.xml" rel="self"/>
   
   <link href="https://jlovec.net/"/>
-  <updated>2020-11-23T08:41:08.623Z</updated>
+  <updated>2020-11-23T08:47:17.564Z</updated>
   <id>https://jlovec.net/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://jlovec.net/2020/11/23/docker-da-jian-svn/"/>
     <id>https://jlovec.net/2020/11/23/docker-da-jian-svn/</id>
     <published>2020-11-23T07:17:48.000Z</published>
-    <updated>2020-11-23T08:41:08.623Z</updated>
+    <updated>2020-11-23T08:47:17.564Z</updated>
     
     
       
@@ -48,7 +48,7 @@
     <link href="https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/"/>
     <id>https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/</id>
     <published>2020-11-23T07:15:48.000Z</published>
-    <updated>2020-11-23T08:41:08.627Z</updated>
+    <updated>2020-11-23T08:47:17.572Z</updated>
     
     
       
@@ -74,7 +74,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/"/>
     <id>https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/</id>
     <published>2020-03-26T06:29:12.000Z</published>
-    <updated>2020-11-23T08:41:08.639Z</updated>
+    <updated>2020-11-23T08:47:17.580Z</updated>
     
     
       
@@ -100,7 +100,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/"/>
     <id>https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/</id>
     <published>2020-03-21T14:27:53.000Z</published>
-    <updated>2020-11-23T08:41:08.699Z</updated>
+    <updated>2020-11-23T08:47:17.644Z</updated>
     
     
       
@@ -129,7 +129,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/01/21/vue.js-bi-ji/"/>
     <id>https://jlovec.net/2020/01/21/vue.js-bi-ji/</id>
     <published>2020-01-21T02:31:06.000Z</published>
-    <updated>2020-11-23T08:41:09.359Z</updated>
+    <updated>2020-11-23T08:47:18.360Z</updated>
     
     
       
@@ -145,6 +145,10 @@ svn co</summary>
     <category term="前端" scheme="https://jlovec.net/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
+    <category term="vue" scheme="https://jlovec.net/tags/vue/"/>
+    
+    <category term="nodejs" scheme="https://jlovec.net/tags/nodejs/"/>
+    
   </entry>
   
   <entry>
@@ -152,7 +156,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/01/06/shan-chu-systemd-journal-ri-zhi/"/>
     <id>https://jlovec.net/2020/01/06/shan-chu-systemd-journal-ri-zhi/</id>
     <published>2020-01-06T07:58:08.000Z</published>
-    <updated>2020-11-23T08:41:09.375Z</updated>
+    <updated>2020-11-23T08:47:18.380Z</updated>
     
     
       
