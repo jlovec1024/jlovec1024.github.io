@@ -2,112 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jlovec.net/2020/11/20/test2/</loc>
+    <loc>https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/</loc>
     
-    <lastmod>2020-11-20</lastmod>
+    <lastmod>2020-11-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2020/11/23/docker-da-jian-svn/</loc>
+    
+    <lastmod>2020-11-23</lastmod>
     
   </url>
   
   <url>
     <loc>https://jlovec.net/404/index.html</loc>
     
-    <lastmod>2020-11-20</lastmod>
+    <lastmod>2020-11-23</lastmod>
     
   </url>
   
   <url>
     <loc>https://jlovec.net/about/index.html</loc>
     
-    <lastmod>2020-11-20</lastmod>
+    <lastmod>2020-11-23</lastmod>
     
   </url>
   
   <url>
     <loc>https://jlovec.net/articles/index.html</loc>
     
-    <lastmod>2020-11-20</lastmod>
+    <lastmod>2020-11-23</lastmod>
     
   </url>
   
   <url>
     <loc>https://jlovec.net/categories/index.html</loc>
     
-    <lastmod>2020-11-20</lastmod>
+    <lastmod>2020-11-23</lastmod>
     
   </url>
   
   <url>
     <loc>https://jlovec.net/contact/index.html</loc>
     
-    <lastmod>2020-11-20</lastmod>
+    <lastmod>2020-11-23</lastmod>
     
   </url>
   
   <url>
     <loc>https://jlovec.net/data/friends.json</loc>
     
-    <lastmod>2020-11-20</lastmod>
+    <lastmod>2020-11-23</lastmod>
     
   </url>
   
   <url>
     <loc>https://jlovec.net/data/index.html</loc>
     
-    <lastmod>2020-11-20</lastmod>
+    <lastmod>2020-11-23</lastmod>
     
   </url>
   
   <url>
     <loc>https://jlovec.net/friends/index.html</loc>
     
-    <lastmod>2020-11-20</lastmod>
+    <lastmod>2020-11-23</lastmod>
     
   </url>
   
   <url>
     <loc>https://jlovec.net/tags/index.html</loc>
     
-    <lastmod>2020-11-20</lastmod>
+    <lastmod>2020-11-23</lastmod>
     
   </url>
   
   <url>
     <loc>https://jlovec.net/timeline/index.html</loc>
     
-    <lastmod>2020-11-20</lastmod>
+    <lastmod>2020-11-23</lastmod>
     
   </url>
   
 
   <url>
     <loc>https://jlovec.net/</loc>
-    <lastmod>2020-11-20</lastmod>
+    <lastmod>2020-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
-  <url>
-    <loc>https://jlovec.net/tags/hexo/</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/tags/node/</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>https://jlovec.net/categories/fe/</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
 </urlset>
