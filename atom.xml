@@ -6,7 +6,7 @@
   <link href="https://jlovec.net/atom.xml" rel="self"/>
   
   <link href="https://jlovec.net/"/>
-  <updated>2020-11-23T08:49:29.166Z</updated>
+  <updated>2020-11-26T00:40:12.619Z</updated>
   <id>https://jlovec.net/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>五分钟了解LogQL</title>
+    <link href="https://jlovec.net/2020/11/26/wu-fen-zhong-liao-jie-logql/"/>
+    <id>https://jlovec.net/2020/11/26/wu-fen-zhong-liao-jie-logql/</id>
+    <published>2020-11-26T00:38:59.000Z</published>
+    <updated>2020-11-26T00:40:12.619Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;受 PromQL 的启发，Loki 也有自己的 LogQL 查询语句。根据官方的说法，它就像一个&lt;code&gt;分布式的 grep 日志聚合查看器&lt;/code&gt;。和 PromeQL 一样，LogQL</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Docker搭建SVN</title>
     <link href="https://jlovec.net/2020/11/23/docker-da-jian-svn/"/>
     <id>https://jlovec.net/2020/11/23/docker-da-jian-svn/</id>
     <published>2020-11-23T07:17:48.000Z</published>
-    <updated>2020-11-23T08:49:29.166Z</updated>
+    <updated>2020-11-26T00:40:12.695Z</updated>
     
     
       
@@ -52,7 +73,7 @@
     <link href="https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/"/>
     <id>https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/</id>
     <published>2020-11-23T07:15:48.000Z</published>
-    <updated>2020-11-23T08:49:29.170Z</updated>
+    <updated>2020-11-26T00:40:12.699Z</updated>
     
     
       
@@ -78,7 +99,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/"/>
     <id>https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/</id>
     <published>2020-03-26T06:29:12.000Z</published>
-    <updated>2020-11-23T08:49:29.178Z</updated>
+    <updated>2020-11-26T00:40:12.707Z</updated>
     
     
       
@@ -104,7 +125,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/"/>
     <id>https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/</id>
     <published>2020-03-21T14:27:53.000Z</published>
-    <updated>2020-11-23T08:49:29.246Z</updated>
+    <updated>2020-11-26T00:40:12.767Z</updated>
     
     
       
@@ -133,7 +154,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/01/21/vue.js-bi-ji/"/>
     <id>https://jlovec.net/2020/01/21/vue.js-bi-ji/</id>
     <published>2020-01-21T02:31:06.000Z</published>
-    <updated>2020-11-23T08:49:29.978Z</updated>
+    <updated>2020-11-26T00:40:13.435Z</updated>
     
     
       
@@ -160,7 +181,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/01/06/shan-chu-systemd-journal-ri-zhi/"/>
     <id>https://jlovec.net/2020/01/06/shan-chu-systemd-journal-ri-zhi/</id>
     <published>2020-01-06T07:58:08.000Z</published>
-    <updated>2020-11-23T08:49:29.994Z</updated>
+    <updated>2020-11-26T00:40:13.451Z</updated>
     
     
       
