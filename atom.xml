@@ -6,7 +6,7 @@
   <link href="https://jlovec.net/atom.xml" rel="self"/>
   
   <link href="https://jlovec.net/"/>
-  <updated>2020-12-08T08:58:19.795Z</updated>
+  <updated>2020-12-08T08:58:53.072Z</updated>
   <id>https://jlovec.net/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://jlovec.net/2020/12/08/quan-guo-dns/"/>
     <id>https://jlovec.net/2020/12/08/quan-guo-dns/</id>
     <published>2020-12-08T08:57:46.000Z</published>
-    <updated>2020-12-08T08:58:19.795Z</updated>
+    <updated>2020-12-08T08:58:53.072Z</updated>
     
     
       
@@ -51,7 +51,7 @@
     <link href="https://jlovec.net/2020/12/08/go-zhi-ding-dns-ce-shi-dns-server-jie-xi-qing-kuang/"/>
     <id>https://jlovec.net/2020/12/08/go-zhi-ding-dns-ce-shi-dns-server-jie-xi-qing-kuang/</id>
     <published>2020-12-08T08:21:52.000Z</published>
-    <updated>2020-12-08T08:58:19.803Z</updated>
+    <updated>2020-12-08T08:58:53.080Z</updated>
     
     
       
@@ -66,6 +66,12 @@
     
     
     
+    <category term="go" scheme="https://jlovec.net/categories/go/"/>
+    
+    
+    <category term="dns" scheme="https://jlovec.net/tags/dns/"/>
+    
+    <category term="go" scheme="https://jlovec.net/tags/go/"/>
     
   </entry>
   
@@ -74,7 +80,7 @@
     <link href="https://jlovec.net/2020/12/08/nginx-zhi-proxy-pass-xiang-jie/"/>
     <id>https://jlovec.net/2020/12/08/nginx-zhi-proxy-pass-xiang-jie/</id>
     <published>2020-12-08T01:29:02.000Z</published>
-    <updated>2020-12-08T08:58:19.859Z</updated>
+    <updated>2020-12-08T08:58:53.140Z</updated>
     
     
       
@@ -88,6 +94,10 @@
     
     
     
+    <category term="linux" scheme="https://jlovec.net/categories/linux/"/>
+    
+    
+    <category term="nginx" scheme="https://jlovec.net/tags/nginx/"/>
     
   </entry>
   
@@ -96,7 +106,7 @@
     <link href="https://jlovec.net/2020/11/26/wu-fen-zhong-liao-jie-logql/"/>
     <id>https://jlovec.net/2020/11/26/wu-fen-zhong-liao-jie-logql/</id>
     <published>2020-11-26T00:38:59.000Z</published>
-    <updated>2020-12-08T08:58:19.951Z</updated>
+    <updated>2020-12-08T08:58:53.224Z</updated>
     
     
       
@@ -117,7 +127,7 @@
     <link href="https://jlovec.net/2020/11/23/docker-da-jian-svn/"/>
     <id>https://jlovec.net/2020/11/23/docker-da-jian-svn/</id>
     <published>2020-11-23T07:17:48.000Z</published>
-    <updated>2020-12-08T08:58:20.019Z</updated>
+    <updated>2020-12-08T08:58:53.288Z</updated>
     
     
       
@@ -148,7 +158,7 @@
     <link href="https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/"/>
     <id>https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/</id>
     <published>2020-11-23T07:15:48.000Z</published>
-    <updated>2020-12-08T08:58:20.027Z</updated>
+    <updated>2020-12-08T08:58:53.296Z</updated>
     
     
       
@@ -174,7 +184,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/"/>
     <id>https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/</id>
     <published>2020-03-26T06:29:12.000Z</published>
-    <updated>2020-12-08T08:58:20.039Z</updated>
+    <updated>2020-12-08T08:58:53.304Z</updated>
     
     
       
@@ -200,7 +210,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/"/>
     <id>https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/</id>
     <published>2020-03-21T14:27:53.000Z</published>
-    <updated>2020-12-08T08:58:20.091Z</updated>
+    <updated>2020-12-08T08:58:53.356Z</updated>
     
     
       
@@ -229,7 +239,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/01/21/vue.js-bi-ji/"/>
     <id>https://jlovec.net/2020/01/21/vue.js-bi-ji/</id>
     <published>2020-01-21T02:31:06.000Z</published>
-    <updated>2020-12-08T08:58:20.743Z</updated>
+    <updated>2020-12-08T08:58:54.132Z</updated>
     
     
       
@@ -256,7 +266,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/01/06/shan-chu-systemd-journal-ri-zhi/"/>
     <id>https://jlovec.net/2020/01/06/shan-chu-systemd-journal-ri-zhi/</id>
     <published>2020-01-06T07:58:08.000Z</published>
-    <updated>2020-12-08T08:58:20.763Z</updated>
+    <updated>2020-12-08T08:58:54.152Z</updated>
     
     
       

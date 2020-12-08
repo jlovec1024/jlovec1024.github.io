@@ -186,6 +186,20 @@
   </url>
   
   <url>
+    <loc>https://jlovec.net/tags/go/</loc>
+    <lastmod>2020-12-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/tags/nginx/</loc>
+    <lastmod>2020-12-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jlovec.net/tags/systemd/</loc>
     <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
@@ -230,7 +244,7 @@
   </url>
   
   <url>
-    <loc>https://jlovec.net/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://jlovec.net/categories/go/</loc>
     <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -238,6 +252,13 @@
   
   <url>
     <loc>https://jlovec.net/categories/linux/</loc>
+    <lastmod>2020-12-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/categories/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
