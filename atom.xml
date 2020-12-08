@@ -6,7 +6,7 @@
   <link href="https://jlovec.net/atom.xml" rel="self"/>
   
   <link href="https://jlovec.net/"/>
-  <updated>2020-11-26T00:40:12.619Z</updated>
+  <updated>2020-12-08T01:30:15.181Z</updated>
   <id>https://jlovec.net/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>nginx 之 proxy_pass详解</title>
+    <link href="https://jlovec.net/2020/12/08/nginx-zhi-proxy-pass-xiang-jie/"/>
+    <id>https://jlovec.net/2020/12/08/nginx-zhi-proxy-pass-xiang-jie/</id>
+    <published>2020-12-08T01:29:02.000Z</published>
+    <updated>2020-12-08T01:30:15.181Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在 nginx 中配置 proxy_pass 代理转发时，如果在 proxy_pass 后面的 url 加 /，表示绝对根路径；如果没有 /，表示相对路径，把匹配的路径部分也给代理走。&lt;/p&gt;
+&lt;p&gt;假设下面四种情况分别用 &lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>五分钟了解LogQL</title>
     <link href="https://jlovec.net/2020/11/26/wu-fen-zhong-liao-jie-logql/"/>
     <id>https://jlovec.net/2020/11/26/wu-fen-zhong-liao-jie-logql/</id>
     <published>2020-11-26T00:38:59.000Z</published>
-    <updated>2020-11-26T00:40:12.619Z</updated>
+    <updated>2020-12-08T01:30:15.270Z</updated>
     
     
       
@@ -42,7 +64,7 @@
     <link href="https://jlovec.net/2020/11/23/docker-da-jian-svn/"/>
     <id>https://jlovec.net/2020/11/23/docker-da-jian-svn/</id>
     <published>2020-11-23T07:17:48.000Z</published>
-    <updated>2020-11-26T00:40:12.695Z</updated>
+    <updated>2020-12-08T01:30:15.342Z</updated>
     
     
       
@@ -73,7 +95,7 @@
     <link href="https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/"/>
     <id>https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/</id>
     <published>2020-11-23T07:15:48.000Z</published>
-    <updated>2020-11-26T00:40:12.699Z</updated>
+    <updated>2020-12-08T01:30:15.346Z</updated>
     
     
       
@@ -99,7 +121,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/"/>
     <id>https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/</id>
     <published>2020-03-26T06:29:12.000Z</published>
-    <updated>2020-11-26T00:40:12.707Z</updated>
+    <updated>2020-12-08T01:30:15.354Z</updated>
     
     
       
@@ -125,7 +147,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/"/>
     <id>https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/</id>
     <published>2020-03-21T14:27:53.000Z</published>
-    <updated>2020-11-26T00:40:12.767Z</updated>
+    <updated>2020-12-08T01:30:15.402Z</updated>
     
     
       
@@ -154,7 +176,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/01/21/vue.js-bi-ji/"/>
     <id>https://jlovec.net/2020/01/21/vue.js-bi-ji/</id>
     <published>2020-01-21T02:31:06.000Z</published>
-    <updated>2020-11-26T00:40:13.435Z</updated>
+    <updated>2020-12-08T01:30:16.058Z</updated>
     
     
       
@@ -181,7 +203,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/01/06/shan-chu-systemd-journal-ri-zhi/"/>
     <id>https://jlovec.net/2020/01/06/shan-chu-systemd-journal-ri-zhi/</id>
     <published>2020-01-06T07:58:08.000Z</published>
-    <updated>2020-11-26T00:40:13.451Z</updated>
+    <updated>2020-12-08T01:30:16.074Z</updated>
     
     
       
