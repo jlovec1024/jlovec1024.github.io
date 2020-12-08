@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>terrafrom 根据变量判断是否创建资源</title>
+      <link href="2020/12/08/terrafrom-gen-ju-bian-liang-pan-duan-shi-fou-chuang-jian-zi-yuan/"/>
+      <url>2020/12/08/terrafrom-gen-ju-bian-liang-pan-duan-shi-fou-chuang-jian-zi-yuan/</url>
+      
+        <content type="html"><![CDATA[<p>下面的配置中，若 var.target_group_addition&nbsp; 为 true ，则创建 aws_lb_target_group，若 var.target_group_addition&nbsp; 为 false ，则不创建。</p><pre class=" language-bash"><code class="language-bash">resource <span class="token string">"aws_lb_target_group"</span> <span class="token string">"tg"</span> <span class="token punctuation">{</span>  count <span class="token operator">=</span> var.target_group_addition ? 1 <span class="token keyword">:</span> 0  name                 <span class="token operator">=</span> <span class="token string">"tg-<span class="token variable">${var.name}</span>"</span>  port                 <span class="token operator">=</span> var.tg_port  protocol             <span class="token operator">=</span> var.tg_protocol  vpc_id               <span class="token operator">=</span> var.vpc_id  deregistration_delay <span class="token operator">=</span> var.tg_deregistration_delay  health_check <span class="token punctuation">{</span>    interval            <span class="token operator">=</span> var.tg_healthcheck_interval    path                <span class="token operator">=</span> var.tg_healthcheck_path    port                <span class="token operator">=</span> <span class="token string">"traffic-port"</span>    protocol            <span class="token operator">=</span> var.tg_protocol    <span class="token function">timeout</span>             <span class="token operator">=</span> 5    healthy_threshold   <span class="token operator">=</span> 2    unhealthy_threshold <span class="token operator">=</span> 2    matcher             <span class="token operator">=</span> var.tg_healthcheck_success_code  <span class="token punctuation">}</span><span class="token punctuation">}</span></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> terrafrom </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> terrafrom </tag>
+            
+            <tag> 自动化 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>全国 DNS</title>
       <link href="2020/12/08/quan-guo-dns/"/>
       <url>2020/12/08/quan-guo-dns/</url>

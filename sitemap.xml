@@ -72,14 +72,7 @@
   </url>
   
   <url>
-    <loc>https://jlovec.net/404/index.html</loc>
-    
-    <lastmod>2020-12-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/about/index.html</loc>
+    <loc>https://jlovec.net/2020/12/08/terrafrom-gen-ju-bian-liang-pan-duan-shi-fou-chuang-jian-zi-yuan/</loc>
     
     <lastmod>2020-12-08</lastmod>
     
@@ -141,6 +134,20 @@
     
   </url>
   
+  <url>
+    <loc>https://jlovec.net/404/index.html</loc>
+    
+    <lastmod>2020-12-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/about/index.html</loc>
+    
+    <lastmod>2020-12-08</lastmod>
+    
+  </url>
+  
 
   <url>
     <loc>https://jlovec.net/</loc>
@@ -194,6 +201,20 @@
   
   <url>
     <loc>https://jlovec.net/tags/nginx/</loc>
+    <lastmod>2020-12-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/tags/terrafrom/</loc>
+    <lastmod>2020-12-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</loc>
     <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -280,6 +301,13 @@
   
   <url>
     <loc>https://jlovec.net/categories/linux/</loc>
+    <lastmod>2020-12-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/categories/terrafrom/</loc>
     <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
