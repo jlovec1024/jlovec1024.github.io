@@ -6,7 +6,7 @@
   <link href="https://jlovec.net/atom.xml" rel="self"/>
   
   <link href="https://jlovec.net/"/>
-  <updated>2020-12-08T08:22:50.154Z</updated>
+  <updated>2020-12-08T08:44:42.196Z</updated>
   <id>https://jlovec.net/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>全国 DNS</title>
+    <link href="https://jlovec.net/2020/12/08/quan-guo-dns/"/>
+    <id>https://jlovec.net/2020/12/08/quan-guo-dns/</id>
+    <published>2020-12-08T08:41:40.000Z</published>
+    <updated>2020-12-08T08:44:42.196Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;参考：&lt;a href=&quot;ip.cn/dns.html&quot;&gt;ip.cn&lt;/a&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;名称&lt;/th&gt;
+&lt;th&gt;DNS 服务器 IP</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>go 指定 dns 测试 dns server 解析情况</title>
     <link href="https://jlovec.net/2020/12/08/go-zhi-ding-dns-ce-shi-dns-server-jie-xi-qing-kuang/"/>
     <id>https://jlovec.net/2020/12/08/go-zhi-ding-dns-ce-shi-dns-server-jie-xi-qing-kuang/</id>
     <published>2020-12-08T08:21:52.000Z</published>
-    <updated>2020-12-08T08:22:50.154Z</updated>
+    <updated>2020-12-08T08:44:42.204Z</updated>
     
     
       
@@ -44,7 +70,7 @@
     <link href="https://jlovec.net/2020/12/08/nginx-zhi-proxy-pass-xiang-jie/"/>
     <id>https://jlovec.net/2020/12/08/nginx-zhi-proxy-pass-xiang-jie/</id>
     <published>2020-12-08T01:29:02.000Z</published>
-    <updated>2020-12-08T08:22:50.218Z</updated>
+    <updated>2020-12-08T08:44:42.256Z</updated>
     
     
       
@@ -66,7 +92,7 @@
     <link href="https://jlovec.net/2020/11/26/wu-fen-zhong-liao-jie-logql/"/>
     <id>https://jlovec.net/2020/11/26/wu-fen-zhong-liao-jie-logql/</id>
     <published>2020-11-26T00:38:59.000Z</published>
-    <updated>2020-12-08T08:22:50.302Z</updated>
+    <updated>2020-12-08T08:44:42.344Z</updated>
     
     
       
@@ -87,7 +113,7 @@
     <link href="https://jlovec.net/2020/11/23/docker-da-jian-svn/"/>
     <id>https://jlovec.net/2020/11/23/docker-da-jian-svn/</id>
     <published>2020-11-23T07:17:48.000Z</published>
-    <updated>2020-12-08T08:22:50.374Z</updated>
+    <updated>2020-12-08T08:44:42.416Z</updated>
     
     
       
@@ -118,7 +144,7 @@
     <link href="https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/"/>
     <id>https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/</id>
     <published>2020-11-23T07:15:48.000Z</published>
-    <updated>2020-12-08T08:22:50.378Z</updated>
+    <updated>2020-12-08T08:44:42.420Z</updated>
     
     
       
@@ -144,7 +170,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/"/>
     <id>https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/</id>
     <published>2020-03-26T06:29:12.000Z</published>
-    <updated>2020-12-08T08:22:50.390Z</updated>
+    <updated>2020-12-08T08:44:42.428Z</updated>
     
     
       
@@ -170,7 +196,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/"/>
     <id>https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/</id>
     <published>2020-03-21T14:27:53.000Z</published>
-    <updated>2020-12-08T08:22:50.442Z</updated>
+    <updated>2020-12-08T08:44:42.480Z</updated>
     
     
       
@@ -199,7 +225,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/01/21/vue.js-bi-ji/"/>
     <id>https://jlovec.net/2020/01/21/vue.js-bi-ji/</id>
     <published>2020-01-21T02:31:06.000Z</published>
-    <updated>2020-12-08T08:22:51.166Z</updated>
+    <updated>2020-12-08T08:44:43.156Z</updated>
     
     
       
@@ -226,7 +252,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/01/06/shan-chu-systemd-journal-ri-zhi/"/>
     <id>https://jlovec.net/2020/01/06/shan-chu-systemd-journal-ri-zhi/</id>
     <published>2020-01-06T07:58:08.000Z</published>
-    <updated>2020-12-08T08:22:51.190Z</updated>
+    <updated>2020-12-08T08:44:43.176Z</updated>
     
     
       
