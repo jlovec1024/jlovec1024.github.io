@@ -121,6 +121,13 @@
   </url>
   
   <url>
+    <loc>https://jlovec.net/friends/index.html</loc>
+    
+    <lastmod>2020-12-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jlovec.net/tags/index.html</loc>
     
     <lastmod>2020-12-08</lastmod>
@@ -129,13 +136,6 @@
   
   <url>
     <loc>https://jlovec.net/timeline/index.html</loc>
-    
-    <lastmod>2020-12-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/friends/index.html</loc>
     
     <lastmod>2020-12-08</lastmod>
     
@@ -173,6 +173,13 @@
   
   <url>
     <loc>https://jlovec.net/tags/git/</loc>
+    <lastmod>2020-12-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/tags/dns/</loc>
     <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -217,6 +224,13 @@
   
   <url>
     <loc>https://jlovec.net/categories/docker/</loc>
+    <lastmod>2020-12-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/categories/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
