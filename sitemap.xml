@@ -200,6 +200,34 @@
   </url>
   
   <url>
+    <loc>https://jlovec.net/tags/logging/</loc>
+    <lastmod>2020-12-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/tags/logql/</loc>
+    <lastmod>2020-12-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/tags/loki/</loc>
+    <lastmod>2020-12-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/tags/grafana/</loc>
+    <lastmod>2020-12-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jlovec.net/tags/systemd/</loc>
     <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
@@ -252,6 +280,13 @@
   
   <url>
     <loc>https://jlovec.net/categories/linux/</loc>
+    <lastmod>2020-12-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/categories/logging/</loc>
     <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
