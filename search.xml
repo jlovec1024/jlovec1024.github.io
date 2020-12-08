@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>go 指定 dns 测试 dns server 解析情况</title>
+      <link href="2020/12/08/go-zhi-ding-dns-ce-shi-dns-server-jie-xi-qing-kuang/"/>
+      <url>2020/12/08/go-zhi-ding-dns-ce-shi-dns-server-jie-xi-qing-kuang/</url>
+      
+        <content type="html"><![CDATA[<pre class=" language-go"><code class="language-go"><span class="token keyword">package</span> main<span class="token keyword">import</span> <span class="token punctuation">(</span>    <span class="token string">"log"</span>    <span class="token string">"github.com/bogdanovich/dns_resolver"</span><span class="token punctuation">)</span><span class="token keyword">func</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>    resolver <span class="token operator">:=</span> dns_resolver<span class="token punctuation">.</span><span class="token function">New</span><span class="token punctuation">(</span><span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token builtin">string</span><span class="token punctuation">{</span><span class="token string">"8.8.8.8"</span><span class="token punctuation">,</span> <span class="token string">"8.8.4.4"</span><span class="token punctuation">}</span><span class="token punctuation">)</span>    <span class="token comment" spellcheck="true">// OR</span>    <span class="token comment" spellcheck="true">// resolver := dns_resolver.NewFromResolvConf("resolv.conf")</span>    <span class="token comment" spellcheck="true">// In case of i/o timeout</span>    resolver<span class="token punctuation">.</span>RetryTimes <span class="token operator">=</span> <span class="token number">5</span>    ip<span class="token punctuation">,</span> err <span class="token operator">:=</span> resolver<span class="token punctuation">.</span><span class="token function">LookupHost</span><span class="token punctuation">(</span><span class="token string">"google.com"</span><span class="token punctuation">)</span>    <span class="token keyword">if</span> err <span class="token operator">!=</span> <span class="token boolean">nil</span> <span class="token punctuation">{</span>        log<span class="token punctuation">.</span><span class="token function">Fatal</span><span class="token punctuation">(</span>err<span class="token punctuation">.</span><span class="token function">Error</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>    <span class="token punctuation">}</span>    log<span class="token punctuation">.</span><span class="token function">Println</span><span class="token punctuation">(</span>ip<span class="token punctuation">)</span>    <span class="token comment" spellcheck="true">// Output [216.58.192.46]</span><span class="token punctuation">}</span></code></pre><p><a href="https://github.com/bogdanovich/dns_resolver">https://github.com/bogdanovich/dns_resolver</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>nginx 之 proxy_pass详解</title>
       <link href="2020/12/08/nginx-zhi-proxy-pass-xiang-jie/"/>
       <url>2020/12/08/nginx-zhi-proxy-pass-xiang-jie/</url>
