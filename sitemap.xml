@@ -121,13 +121,6 @@
   </url>
   
   <url>
-    <loc>https://jlovec.net/friends/index.html</loc>
-    
-    <lastmod>2020-12-08</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://jlovec.net/tags/index.html</loc>
     
     <lastmod>2020-12-08</lastmod>
@@ -136,6 +129,13 @@
   
   <url>
     <loc>https://jlovec.net/timeline/index.html</loc>
+    
+    <lastmod>2020-12-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/friends/index.html</loc>
     
     <lastmod>2020-12-08</lastmod>
     
