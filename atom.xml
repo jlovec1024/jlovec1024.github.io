@@ -6,7 +6,7 @@
   <link href="https://jlovec.net/atom.xml" rel="self"/>
   
   <link href="https://jlovec.net/"/>
-  <updated>2020-12-25T02:04:30.250Z</updated>
+  <updated>2020-12-25T02:05:39.739Z</updated>
   <id>https://jlovec.net/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://jlovec.net/2020/12/25/linux-da-wen-jian-pai-xu-qu-chong/"/>
     <id>https://jlovec.net/2020/12/25/linux-da-wen-jian-pai-xu-qu-chong/</id>
     <published>2020-12-25T01:55:41.000Z</published>
-    <updated>2020-12-25T02:04:30.250Z</updated>
+    <updated>2020-12-25T02:05:39.739Z</updated>
     
     
       
@@ -31,9 +31,9 @@
     <summary type="html">&lt;ul&gt;
 &lt;li&gt;编写 shell 脚本 &lt;code&gt;vim sort_bigfile.sh&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;#!/bin/bash&lt;/p&gt;
-&lt;p&gt;lines=$(wc -l $1 | sed ‘s/ .*//g’)&lt;/p&gt;
-&lt;p&gt;let</summary>
+&lt;pre&gt;&lt;code&gt;#!/bin/bash
+lines=$(wc -l $1 | sed &#39;s/ .*//g&#39;)
+let</summary>
         
       
     
@@ -47,7 +47,7 @@
     <link href="https://jlovec.net/2020/12/08/terrafrom-gen-ju-bian-liang-pan-duan-shi-fou-chuang-jian-zi-yuan/"/>
     <id>https://jlovec.net/2020/12/08/terrafrom-gen-ju-bian-liang-pan-duan-shi-fou-chuang-jian-zi-yuan/</id>
     <published>2020-12-08T15:45:47.000Z</published>
-    <updated>2020-12-25T02:04:30.262Z</updated>
+    <updated>2020-12-25T02:05:39.747Z</updated>
     
     
       
@@ -75,7 +75,7 @@
     <link href="https://jlovec.net/2020/12/08/quan-guo-dns/"/>
     <id>https://jlovec.net/2020/12/08/quan-guo-dns/</id>
     <published>2020-12-08T08:57:46.000Z</published>
-    <updated>2020-12-25T02:04:30.318Z</updated>
+    <updated>2020-12-25T02:05:39.799Z</updated>
     
     
       
@@ -105,7 +105,7 @@
     <link href="https://jlovec.net/2020/12/08/go-zhi-ding-dns-ce-shi-dns-server-jie-xi-qing-kuang/"/>
     <id>https://jlovec.net/2020/12/08/go-zhi-ding-dns-ce-shi-dns-server-jie-xi-qing-kuang/</id>
     <published>2020-12-08T08:21:52.000Z</published>
-    <updated>2020-12-25T02:04:30.326Z</updated>
+    <updated>2020-12-25T02:05:39.807Z</updated>
     
     
       
@@ -134,7 +134,7 @@
     <link href="https://jlovec.net/2020/12/08/nginx-zhi-proxy-pass-xiang-jie/"/>
     <id>https://jlovec.net/2020/12/08/nginx-zhi-proxy-pass-xiang-jie/</id>
     <published>2020-12-08T01:29:02.000Z</published>
-    <updated>2020-12-25T02:04:30.378Z</updated>
+    <updated>2020-12-25T02:05:39.855Z</updated>
     
     
       
@@ -160,7 +160,7 @@
     <link href="https://jlovec.net/2020/11/26/wu-fen-zhong-liao-jie-logql/"/>
     <id>https://jlovec.net/2020/11/26/wu-fen-zhong-liao-jie-logql/</id>
     <published>2020-11-26T00:38:59.000Z</published>
-    <updated>2020-12-25T02:04:30.462Z</updated>
+    <updated>2020-12-25T02:05:39.931Z</updated>
     
     
       
@@ -191,7 +191,7 @@
     <link href="https://jlovec.net/2020/11/23/docker-da-jian-svn/"/>
     <id>https://jlovec.net/2020/11/23/docker-da-jian-svn/</id>
     <published>2020-11-23T07:17:48.000Z</published>
-    <updated>2020-12-25T02:04:30.542Z</updated>
+    <updated>2020-12-25T02:05:39.995Z</updated>
     
     
       
@@ -222,7 +222,7 @@
     <link href="https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/"/>
     <id>https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/</id>
     <published>2020-11-23T07:15:48.000Z</published>
-    <updated>2020-12-25T02:04:30.546Z</updated>
+    <updated>2020-12-25T02:05:39.999Z</updated>
     
     
       
@@ -248,7 +248,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/"/>
     <id>https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/</id>
     <published>2020-03-26T06:29:12.000Z</published>
-    <updated>2020-12-25T02:04:30.554Z</updated>
+    <updated>2020-12-25T02:05:40.015Z</updated>
     
     
       
@@ -274,7 +274,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/"/>
     <id>https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/</id>
     <published>2020-03-21T14:27:53.000Z</published>
-    <updated>2020-12-25T02:04:30.606Z</updated>
+    <updated>2020-12-25T02:05:40.063Z</updated>
     
     
       
@@ -303,7 +303,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/01/21/vue.js-bi-ji/"/>
     <id>https://jlovec.net/2020/01/21/vue.js-bi-ji/</id>
     <published>2020-01-21T02:31:06.000Z</published>
-    <updated>2020-12-25T02:04:31.302Z</updated>
+    <updated>2020-12-25T02:05:40.695Z</updated>
     
     
       
@@ -330,7 +330,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/01/06/shan-chu-systemd-journal-ri-zhi/"/>
     <id>https://jlovec.net/2020/01/06/shan-chu-systemd-journal-ri-zhi/</id>
     <published>2020-01-06T07:58:08.000Z</published>
-    <updated>2020-12-25T02:04:31.326Z</updated>
+    <updated>2020-12-25T02:05:40.727Z</updated>
     
     
       
