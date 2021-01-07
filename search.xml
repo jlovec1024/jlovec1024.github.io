@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Ubuntu 安装 python 3.6、 3.7</title>
+      <link href="2021/01/07/ubuntu-an-zhuang-python-3.6-3.7/"/>
+      <url>2021/01/07/ubuntu-an-zhuang-python-3.6-3.7/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Ubuntu-安装-python-3-6-3-7"><a href="#Ubuntu-安装-python-3-6-3-7" class="headerlink" title="Ubuntu 安装 python 3.6 3.7"></a>Ubuntu 安装 python 3.6 3.7</h1><h2 id="Step-1-Install-ppa"><a href="#Step-1-Install-ppa" class="headerlink" title="Step 1:- Install ppa"></a>Step 1:- Install ppa</h2><p>This PPA contains more recent Python versions packaged for Ubuntu. Install ppa by running the following command.</p><pre><code>$ sudo add-apt-repository ppa:deadsnakes/ppa</code></pre><h2 id="Step-2-Update-packeges"><a href="#Step-2-Update-packeges" class="headerlink" title="Step 2:- Update packeges"></a>Step 2:- Update packeges</h2><p>Now, update your packages by running the following command.</p><pre><code>$ sudo apt-get update</code></pre><h2 id="Step-3-Upgrade-python-2-x-to-python-3-x"><a href="#Step-3-Upgrade-python-2-x-to-python-3-x" class="headerlink" title="Step 3:- Upgrade python 2.x to python 3.x"></a>Step 3:- Upgrade python 2.x to python 3.x</h2><p>Before install 3.7, we should have to install python 3.6 by running the following command.</p><pre><code>$ sudo apt-get install python3.6$ sudo apt-get install python3.7</code></pre><h2 id="PiP-installation"><a href="#PiP-installation" class="headerlink" title="PiP installation"></a>PiP installation</h2><p>Install pip by running the following command.</p><pre><code>$ sudo apt install python3-pip</code></pre><h2 id="Set-priority"><a href="#Set-priority" class="headerlink" title="Set priority"></a>Set priority</h2><pre><code>$ sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.6 1$ sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.7 2</code></pre><p>Now, you can use python 2.7, 3.6 and 3.7 in your machine.</p><p><a href="https://rajputankit22.medium.com/upgrade-python-2-7-to-3-6-and-3-7-in-ubuntu-97d2727bf911">https://rajputankit22.medium.com/upgrade-python-2-7-to-3-6-and-3-7-in-ubuntu-97d2727bf911</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Alfred工作流workflows实例</title>
       <link href="2020/12/26/alfred-gong-zuo-liu-workflows-shi-li/"/>
       <url>2020/12/26/alfred-gong-zuo-liu-workflows-shi-li/</url>
