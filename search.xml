@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Nginx 配置根据请求IP末段进行分流 - SegmentFault 思否</title>
+      <link href="2021/02/01/nginx-pei-zhi-gen-ju-qing-qiu-ip-mo-duan-jin-xing-fen-liu-segmentfault-si-fou/"/>
+      <url>2021/02/01/nginx-pei-zhi-gen-ju-qing-qiu-ip-mo-duan-jin-xing-fen-liu-segmentfault-si-fou/</url>
+      
+        <content type="html"><![CDATA[<p>原文链接： <a href="http://hxd.life/2019/05/13/Nginx%E9%85%8D%E7%BD%AE%E6%A0%B9%E6%8D%AE%E8%AF%B7%E6%B1%82IP%E6%9C%AB%E6%AE%B5%E5%88%86%E6%B5%81/">何晓东 博客</a></p><pre><code> upstream jlovec.com {  server 192.168.1.100:8080;}upstream jlovec-default.com {  server 192.168.1.200:8080;}server {  listen 80;  server_name www.jlovec.com;  location /  {   if ( $remote_addr ~* ^10\.0\.(.*)\.[1,10]$) {        proxy_pass http://jlovec.com;        break;    }    proxy_pass http://jlovec-default.com;  }}</code></pre><p>以上为将 IP 末段为 1-125 的请求来源转发到 huaji-01.com，其他转向 huaji-02.com，同样可以修改正则，例如</p><p>规则： <code>$remote_addr ~* ^(.*)\.(.*)\.(.*)\.*[0268]$</code> 末尾为 0268 这样的偶数 ip，跳转到 huaji-01.com，其他跳转到第二个域名；</p><p>规则：<code>$remote_addr ~* ^(112)\.(.*)\.(.*)\.(.*)$</code> 开头为 112 的 IP 跳转到指定的域名；</p><p>规则：<code>$http_x_forwarded_for ~* ^(112)\.(.*)\.(.*)\.(.*)$</code> 根据 forward 地址段来分流，开头为 112 的跳转到指定域名</p><p>if 指令条件判断的含义：</p><blockquote><p><strong>正则表达式匹配，其中：</strong></p></blockquote><blockquote><p>~ 为区分大小写匹配</p></blockquote><blockquote><p>~* 为不区分大小写匹配</p></blockquote><blockquote><p>!~ 和 !~* 分别为区分大小写不匹配及不区分大小写不匹配</p></blockquote><blockquote><p><strong>文件及目录匹配，其中：</strong></p></blockquote><blockquote><p>-f 和 !-f 用来判断是否存在文件</p></blockquote><blockquote><p>-d 和 !-d 用来判断是否存在目录</p></blockquote><blockquote><p>-e 和 !-e 用来判断是否存在文件或目录</p></blockquote><blockquote><p>-x 和 !-x 用来判断文件是否可执行</p></blockquote><blockquote><p><strong>rewrite 指令的最后一项参数为 flag 标记，flag 标记有：</strong></p></blockquote><blockquote><p>last 相当于 apache 里面的 [L] 标记，表示 rewrite。</p></blockquote><blockquote><p>break 本条规则匹配完成后，终止匹配，不再匹配后面的规则。</p></blockquote><blockquote><p>redirect 返回 302 临时重定向，浏览器地址会显示跳转后的 URL 地址。</p></blockquote><blockquote><p>permanent 返回 301 永久重定向，浏览器地址会显示跳转后的 URL 地址。</p></blockquote><p>参考链接：</p><ol><li><p> <a href="https://github.com/DocsHome/nginx-docs">Nginx 中文文档</a></p></li><li><p> <a href="https://github.com/DocsHome/nginx-docs/blob/d1d7dfc7e4c1f189d4b41621cea9017b9be430e4/%E6%A8%A1%E5%9D%97%E5%8F%82%E8%80%83/http/ngx_http_rewrite_module.md">Nginx rewrite 模块文档</a></p></li></ol><p><a href="https://segmentfault.com/a/1190000019707041">https://segmentfault.com/a/1190000019707041</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Ubuntu 安装 python 3.6、 3.7</title>
       <link href="2021/01/07/ubuntu-an-zhuang-python-3.6-3.7/"/>
       <url>2021/01/07/ubuntu-an-zhuang-python-3.6-3.7/</url>
