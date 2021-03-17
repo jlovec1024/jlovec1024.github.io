@@ -6,7 +6,7 @@
   <link href="https://jlovec.net/atom.xml" rel="self"/>
   
   <link href="https://jlovec.net/"/>
-  <updated>2021-03-11T03:56:56.840Z</updated>
+  <updated>2021-03-17T01:49:13.717Z</updated>
   <id>https://jlovec.net/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>使用docker搭建smtp服务</title>
+    <link href="https://jlovec.net/2021/03/17/shi-yong-docker-da-jian-smtp-fu-wu/"/>
+    <id>https://jlovec.net/2021/03/17/shi-yong-docker-da-jian-smtp-fu-wu/</id>
+    <published>2021-03-17T01:48:08.000Z</published>
+    <updated>2021-03-17T01:49:13.717Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;前段时间搭建 gitlab 服务 harbor 仓库，需要用到 SMTP 服务用于发送邮件，用的自己办公邮箱做的测试，给别人自动发的邮件显示的是自己的邮箱。。。不正规 😋 申请公司的公共邮箱流程太繁琐了 😥 还是自己搭建一个 SMTP</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>SSO场景系列：实现Microsoft AD到阿里云的单点登录-阿里云开发者社区</title>
     <link href="https://jlovec.net/2021/03/11/sso-chang-jing-xi-lie-shi-xian-microsoft-ad-dao-a-li-yun-de-dan-dian-deng-lu-a-li-yun-kai-fa-zhe-she-qu/"/>
     <id>https://jlovec.net/2021/03/11/sso-chang-jing-xi-lie-shi-xian-microsoft-ad-dao-a-li-yun-de-dan-dian-deng-lu-a-li-yun-kai-fa-zhe-she-qu/</id>
     <published>2021-03-11T03:55:55.000Z</published>
-    <updated>2021-03-11T03:56:56.840Z</updated>
+    <updated>2021-03-17T01:49:13.769Z</updated>
     
     
       
@@ -42,7 +63,7 @@
     <link href="https://jlovec.net/2021/03/07/collecting-docker-logs-with-loki/"/>
     <id>https://jlovec.net/2021/03/07/collecting-docker-logs-with-loki/</id>
     <published>2021-03-07T03:22:35.000Z</published>
-    <updated>2021-03-11T03:56:56.972Z</updated>
+    <updated>2021-03-17T01:49:13.905Z</updated>
     
     
       
@@ -63,7 +84,7 @@
     <link href="https://jlovec.net/2021/02/01/nginx-pei-zhi-gen-ju-qing-qiu-ip-mo-duan-jin-xing-fen-liu-segmentfault-si-fou/"/>
     <id>https://jlovec.net/2021/02/01/nginx-pei-zhi-gen-ju-qing-qiu-ip-mo-duan-jin-xing-fen-liu-segmentfault-si-fou/</id>
     <published>2021-02-01T05:37:30.000Z</published>
-    <updated>2021-03-11T03:56:57.008Z</updated>
+    <updated>2021-03-17T01:49:13.949Z</updated>
     
     
       
@@ -84,7 +105,7 @@
     <link href="https://jlovec.net/2021/01/07/ubuntu-an-zhuang-python-3.6-3.7/"/>
     <id>https://jlovec.net/2021/01/07/ubuntu-an-zhuang-python-3.6-3.7/</id>
     <published>2021-01-07T03:11:32.000Z</published>
-    <updated>2021-03-11T03:56:57.016Z</updated>
+    <updated>2021-03-17T01:49:13.957Z</updated>
     
     
       
@@ -105,7 +126,7 @@
     <link href="https://jlovec.net/2020/12/26/alfred-gong-zuo-liu-workflows-shi-li/"/>
     <id>https://jlovec.net/2020/12/26/alfred-gong-zuo-liu-workflows-shi-li/</id>
     <published>2020-12-26T06:53:49.000Z</published>
-    <updated>2021-03-11T03:56:57.064Z</updated>
+    <updated>2021-03-17T01:49:14.001Z</updated>
     
     
       
@@ -126,7 +147,7 @@
     <link href="https://jlovec.net/2020/12/25/linux-da-wen-jian-pai-xu-qu-chong/"/>
     <id>https://jlovec.net/2020/12/25/linux-da-wen-jian-pai-xu-qu-chong/</id>
     <published>2020-12-25T01:55:41.000Z</published>
-    <updated>2021-03-11T03:56:57.072Z</updated>
+    <updated>2021-03-17T01:49:14.005Z</updated>
     
     
       
@@ -152,7 +173,7 @@ let</summary>
     <link href="https://jlovec.net/2020/12/08/terrafrom-gen-ju-bian-liang-pan-duan-shi-fou-chuang-jian-zi-yuan/"/>
     <id>https://jlovec.net/2020/12/08/terrafrom-gen-ju-bian-liang-pan-duan-shi-fou-chuang-jian-zi-yuan/</id>
     <published>2020-12-08T15:45:47.000Z</published>
-    <updated>2021-03-11T03:56:57.076Z</updated>
+    <updated>2021-03-17T01:49:14.013Z</updated>
     
     
       
@@ -180,7 +201,7 @@ let</summary>
     <link href="https://jlovec.net/2020/12/08/quan-guo-dns/"/>
     <id>https://jlovec.net/2020/12/08/quan-guo-dns/</id>
     <published>2020-12-08T08:57:46.000Z</published>
-    <updated>2021-03-11T03:56:57.120Z</updated>
+    <updated>2021-03-17T01:49:14.057Z</updated>
     
     
       
@@ -210,7 +231,7 @@ let</summary>
     <link href="https://jlovec.net/2020/12/08/go-zhi-ding-dns-ce-shi-dns-server-jie-xi-qing-kuang/"/>
     <id>https://jlovec.net/2020/12/08/go-zhi-ding-dns-ce-shi-dns-server-jie-xi-qing-kuang/</id>
     <published>2020-12-08T08:21:52.000Z</published>
-    <updated>2021-03-11T03:56:57.124Z</updated>
+    <updated>2021-03-17T01:49:14.065Z</updated>
     
     
       
@@ -239,7 +260,7 @@ let</summary>
     <link href="https://jlovec.net/2020/12/08/nginx-zhi-proxy-pass-xiang-jie/"/>
     <id>https://jlovec.net/2020/12/08/nginx-zhi-proxy-pass-xiang-jie/</id>
     <published>2020-12-08T01:29:02.000Z</published>
-    <updated>2021-03-11T03:56:57.160Z</updated>
+    <updated>2021-03-17T01:49:14.121Z</updated>
     
     
       
@@ -265,7 +286,7 @@ let</summary>
     <link href="https://jlovec.net/2020/11/26/wu-fen-zhong-liao-jie-logql/"/>
     <id>https://jlovec.net/2020/11/26/wu-fen-zhong-liao-jie-logql/</id>
     <published>2020-11-26T00:38:59.000Z</published>
-    <updated>2021-03-11T03:56:57.220Z</updated>
+    <updated>2021-03-17T01:49:14.189Z</updated>
     
     
       
@@ -296,7 +317,7 @@ let</summary>
     <link href="https://jlovec.net/2020/11/23/docker-da-jian-svn/"/>
     <id>https://jlovec.net/2020/11/23/docker-da-jian-svn/</id>
     <published>2020-11-23T07:17:48.000Z</published>
-    <updated>2021-03-11T03:56:57.260Z</updated>
+    <updated>2021-03-17T01:49:14.221Z</updated>
     
     
       
@@ -327,7 +348,7 @@ let</summary>
     <link href="https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/"/>
     <id>https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/</id>
     <published>2020-11-23T07:15:48.000Z</published>
-    <updated>2021-03-11T03:56:57.264Z</updated>
+    <updated>2021-03-17T01:49:14.225Z</updated>
     
     
       
@@ -353,7 +374,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/"/>
     <id>https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/</id>
     <published>2020-03-26T06:29:12.000Z</published>
-    <updated>2021-03-11T03:56:57.268Z</updated>
+    <updated>2021-03-17T01:49:14.233Z</updated>
     
     
       
@@ -379,7 +400,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/"/>
     <id>https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/</id>
     <published>2020-03-21T14:27:53.000Z</published>
-    <updated>2021-03-11T03:56:57.316Z</updated>
+    <updated>2021-03-17T01:49:14.285Z</updated>
     
     
       
@@ -408,7 +429,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/01/21/vue.js-bi-ji/"/>
     <id>https://jlovec.net/2020/01/21/vue.js-bi-ji/</id>
     <published>2020-01-21T02:31:06.000Z</published>
-    <updated>2021-03-11T03:56:57.980Z</updated>
+    <updated>2021-03-17T01:49:14.981Z</updated>
     
     
       
@@ -435,7 +456,7 @@ svn co</summary>
     <link href="https://jlovec.net/2020/01/06/shan-chu-systemd-journal-ri-zhi/"/>
     <id>https://jlovec.net/2020/01/06/shan-chu-systemd-journal-ri-zhi/</id>
     <published>2020-01-06T07:58:08.000Z</published>
-    <updated>2021-03-11T03:56:57.996Z</updated>
+    <updated>2021-03-17T01:49:15.001Z</updated>
     
     
       
