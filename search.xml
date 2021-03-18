@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>jenkins反向代理配置有误问题修复</title>
+      <link href="2021/03/18/jenkins-fan-xiang-dai-li-pei-zhi-you-wu-wen-ti-xiu-fu/"/>
+      <url>2021/03/18/jenkins-fan-xiang-dai-li-pei-zhi-you-wu-wen-ti-xiu-fu/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>需要一个持续集成的工具，所以部署了一个 jenkins。由于服务器上本身存在一个 nginx，所以 jenkins 我部署了反向代理，但是每次访问后台都有这样一个错误，不胜其烦。</p></blockquote><p><code>An error message is displayed in the "Manage Jenkins" page - "It appears that your reverse proxy set up is broken"</code></p><p>出现这个错误以后，我们点击更多信息，进到官网的解释，看以看到有这么一个警告：</p><blockquote><p>Be sure to set the X-Forwarded-Proto header if your reverse proxy is accessed via HTTPS and then Jenkins itself is accessed via HTTP i.e. proxying HTTPS to HTTP. 这句话的大概意思是： 如果你的反向代理使用 https 访问，并且 jenkins 使用 http 访问，是代理 https 到 http，那么就一定要设置<code>X-Forwarded-Proto</code>这个请求头。</p></blockquote><pre><code>server {  listen 80;  server\_name jenkins.mydomain.com;  location / {    proxy\_pass http://jenkins.localnet:8080;    proxy\_read\_timeout  90;    proxy\_set\_header X\-Forwarded\-Host $host:$server\_port;    proxy\_set\_header X\-Forwarded\-Server $host;    proxy\_set\_header X\-Forwarded\-For $proxy\_add\_x\_forwarded\_for;    proxy\_set\_header X\-Forwarded\-Proto $scheme;    proxy\_set\_header X\-Real\-IP $remote\_addr;  }}</code></pre><p>文章作者<strong>ianzhi</strong>, 原文地址：<a href="https://www.dnote.cn/users/ianzhi/posts/jenkins">https://www.dnote.cn/users/ianzhi/posts/jenkins</a></p><p>文章版权归作者所有，转载请保留此声明。</p><p>本文参与<a href="https://cloud.tencent.com/developer/support-plan">腾讯云自媒体分享计划</a>，欢迎正在阅读的你也加入，一起分享。<br><a href="https://cloud.tencent.com/developer/article/1476876">https://cloud.tencent.com/developer/article/1476876</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>使用docker搭建smtp服务</title>
       <link href="2021/03/17/shi-yong-docker-da-jian-smtp-fu-wu/"/>
       <url>2021/03/17/shi-yong-docker-da-jian-smtp-fu-wu/</url>
