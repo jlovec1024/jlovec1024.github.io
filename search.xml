@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>tcpdump linux抓http请求头_a18827547638的博客-CSDN博客</title>
+      <link href="2021/04/22/tcpdump-linux-zhua-http-qing-qiu-tou-a18827547638-de-bo-ke-csdn-bo-ke/"/>
+      <url>2021/04/22/tcpdump-linux-zhua-http-qing-qiu-tou-a18827547638-de-bo-ke-csdn-bo-ke/</url>
+      
+        <content type="html"><![CDATA[<p>tcpdump -i eth0 port 80 -s 1024 -l -A<img src="https://images0.cnblogs.com/blog2015/377842/201505/041838087046251.png"><br><a href="https://blog.csdn.net/a18827547638/article/details/85715580">https://blog.csdn.net/a18827547638/article/details/85715580</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>jenkins反向代理配置有误问题修复</title>
       <link href="2021/03/18/jenkins-fan-xiang-dai-li-pei-zhi-you-wu-wen-ti-xiu-fu/"/>
       <url>2021/03/18/jenkins-fan-xiang-dai-li-pei-zhi-you-wu-wen-ti-xiu-fu/</url>
