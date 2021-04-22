@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Adding a Static Route to macOS</title>
+      <link href="2021/04/22/adding-a-static-route-to-macos/"/>
+      <url>2021/04/22/adding-a-static-route-to-macos/</url>
+      
+        <content type="html"><![CDATA[<p>Executed from Terminal</p><pre><code>sudo route -n add -net 10.0.0.0/8 x.x.x.x</code></pre><p>x.x.x.x is the IP address of the Cisco/Luxul switch with Just Add Power devices attached</p><h3 id="Examples"><a href="#Examples" class="headerlink" title="Examples"></a>Examples</h3><ol><li><p>For a J+P Network of 10.0.0.0, subnet mask 255.0.0.0 and switch IP 192.168.0.254</p><p>sudo route -n add -net 10.0.0.0/8 192.168.0.254</p></li><li><p>For a J+P Network of 172.16.0.0, subnet mask 255.255.0.0 and switch IP 192.168.1.49</p><p>sudo route -n add -net 172.16.0.0/16 192.168.1.49</p></li></ol><p><a href="https://support.justaddpower.com/kb/article/320-adding-a-static-route-to-macos/">https://support.justaddpower.com/kb/article/320-adding-a-static-route-to-macos/</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>tcpdump linux抓http请求头_a18827547638的博客-CSDN博客</title>
       <link href="2021/04/22/tcpdump-linux-zhua-http-qing-qiu-tou-a18827547638-de-bo-ke-csdn-bo-ke/"/>
       <url>2021/04/22/tcpdump-linux-zhua-http-qing-qiu-tou-a18827547638-de-bo-ke-csdn-bo-ke/</url>
