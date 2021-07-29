@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>將打包好的 Helm Chart Push 至 Nexus</title>
+      <link href="/2021/07/29/jiang-da-bao-hao-de-helm-chart-push-zhi-nexus/"/>
+      <url>/2021/07/29/jiang-da-bao-hao-de-helm-chart-push-zhi-nexus/</url>
+      
+        <content type="html"><![CDATA[<ul><li><p>直接 push</p><ul><li><p>語法</p><pre><code>helm nexus-push {helm repo 名稱} {helm chart} -u {帳號} -p</code></pre></li></ul><p><a href="https://blog.yowko.com/helm-push-nexus/">https://blog.yowko.com/helm-push-nexus/</a></p></li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Kubernetes configuration file is group-readable</title>
       <link href="/2021/07/29/kubernetes-configuration-file-is-group-readable/"/>
       <url>/2021/07/29/kubernetes-configuration-file-is-group-readable/</url>
