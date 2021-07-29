@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Kubernetes configuration file is group-readable</title>
+      <link href="/2021/07/29/kubernetes-configuration-file-is-group-readable/"/>
+      <url>/2021/07/29/kubernetes-configuration-file-is-group-readable/</url>
+      
+        <content type="html"><![CDATA[<pre><code>&gt;&lt;&gt; chmod go-r ~/.kube/config</code></pre><p><a href="https://github.com/helm/helm/issues/9115">https://github.com/helm/helm/issues/9115</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>kubernetes 删除namespace 后一直处于Terminating状态</title>
       <link href="/2021/06/12/kubernetes-shan-chu-namespace-hou-yi-zhi-chu-yu-terminating-zhuang-tai/"/>
       <url>/2021/06/12/kubernetes-shan-chu-namespace-hou-yi-zhi-chu-yu-terminating-zhuang-tai/</url>
