@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>macbook：  The headers or library files could not be found for zlib</title>
+      <link href="/2021/08/15/macbook-the-headers-or-library-files-could-not-be-found-for-zlib/"/>
+      <url>/2021/08/15/macbook-the-headers-or-library-files-could-not-be-found-for-zlib/</url>
+      
+        <content type="html"><![CDATA[<h1 id="问题：-python-无法安装-pillow-7-1-2"><a href="#问题：-python-无法安装-pillow-7-1-2" class="headerlink" title="问题： python 无法安装 pillow==7.1.2"></a>问题： python 无法安装 pillow==7.1.2</h1><blockquote><p>报错： The headers or library files could not be found for zlib,</p></blockquote><h1 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h1><pre class=" language-bash"><code class="language-bash"><span class="token comment" spellcheck="true"># 查找 zlib.h</span><span class="token function">find</span>  /Library/Developer/CommandLineTools/ -name <span class="token string">"*zlib*"</span></code></pre><p><img src="https://cdn.nlark.com/yuque/0/2021/png/527662/1628993156344-63af1a6e-df07-4fa7-b350-a6359073c01f.png#clientId=ud2a77933-c0e9-4&amp;from=paste&amp;height=582&amp;id=u12af3e8d&amp;margin=%5Bobject%20Object%5D&amp;name=image.png&amp;originHeight=1164&amp;originWidth=2866&amp;originalType=binary%E2%88%B6=1&amp;size=798788&amp;status=done&amp;style=none&amp;taskId=u0dbee416-4bd3-4b17-b540-23d50ba8957&amp;width=1433" alt="image.png"></p><p>创建软连接</p><pre class=" language-bash"><code class="language-bash"><span class="token function">ln</span> -s /Library/Developer/CommandLineTools//SDKs/MacOSX11.1.sdk/usr/include/zlib.h /usr/local/include</code></pre>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>將打包好的 Helm Chart Push 至 Nexus</title>
       <link href="/2021/07/29/jiang-da-bao-hao-de-helm-chart-push-zhi-nexus/"/>
       <url>/2021/07/29/jiang-da-bao-hao-de-helm-chart-push-zhi-nexus/</url>
