@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Git清理commit中历史提交的大文件 - 云+社区 - 腾讯云</title>
+      <link href="/2021/08/19/git-qing-li-commit-zhong-li-shi-ti-jiao-de-da-wen-jian-yun-she-qu-teng-xun-yun/"/>
+      <url>/2021/08/19/git-qing-li-commit-zhong-li-shi-ti-jiao-de-da-wen-jian-yun-she-qu-teng-xun-yun/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>文章时间：2019 年 11 月 10 日 14:02:59 解决问题：清理 Git 中比较大的文件，主要针对历史记录进行清理 ps：因为 Git 可以恢复版本，所有历史提交过的较大的文件，也会被保存下来，所以我们需要……xx 嗯，你懂的。</p></blockquote><h4 id="这里方法有两种，下面方法主要介绍了其中一种"><a href="#这里方法有两种，下面方法主要介绍了其中一种" class="headerlink" title="这里方法有两种，下面方法主要介绍了其中一种"></a>这里方法有两种，下面方法主要介绍了其中一种</h4><h2 id="查看目录下的文件的大小"><a href="#查看目录下的文件的大小" class="headerlink" title="查看目录下的文件的大小"></a>查看目录下的文件的大小</h2><pre><code>git count\-objects \-v # 查看 git 相关文件占用的空间du \-sh .git # 查看 .git 文件夹占用磁盘空间du \-d 1 \-h  # 列出所有文件的大小</code></pre><p>du 是 linux 的基础命令，很多用法，详情自己去查找其他文档。 因为 git 的历史文件都是存在一个文件里的，我们使用下面命令可以找出排名前五的文件</p><pre><code>git verify\-pack \-v .git/objects/pack/pack\-\*.idx | sort \-k 3 \-g | tail \-5</code></pre><h2 id="方法一-纯手动（小米-步枪）的方法"><a href="#方法一-纯手动（小米-步枪）的方法" class="headerlink" title="方法一 纯手动（小米 + 步枪）的方法"></a>方法一 纯手动（小米 + 步枪）的方法</h2><p>直接参考这篇教程即可，写的比较全面，比百度上很多废教程好多了。 记一次删除 Git 记录中的大文件的过程：<code>https://www.hollischuang.com/archives/1708</code></p><h2 id="方法二-工具化（自动机枪）"><a href="#方法二-工具化（自动机枪）" class="headerlink" title="方法二 工具化（自动机枪）"></a>方法二 工具化（自动机枪）</h2><p>工具名称：BFG 工具地址：<code>https://rtyley.github.io/bfg-repo-cleaner/</code></p><h3 id="第一步-下载包文件"><a href="#第一步-下载包文件" class="headerlink" title="第一步 下载包文件"></a>第一步 下载包文件</h3><p>直接官网下载即可，bfg-1.13.0.jar 将程序包放到一个文件夹里，为了方便，重命名为 bfg.jar</p><h3 id="第二步-克隆仓库"><a href="#第二步-克隆仓库" class="headerlink" title="第二步 克隆仓库"></a>第二步 克隆仓库</h3><p>clone 自己的 git repo，使用 –mirror 参数</p><pre><code>git clone \--mirror http://192.168.1.199:8099/hcses/hcses\-warehouse.git</code></pre><h3 id="第三步-清除大文件，文件夹，隐私文件"><a href="#第三步-清除大文件，文件夹，隐私文件" class="headerlink" title="第三步 清除大文件，文件夹，隐私文件"></a>第三步 清除大文件，文件夹，隐私文件</h3><p>这里官网给出的命令，可能会不行，我们继续添加参数。 删除文件和删除文件夹的命令</p><pre><code>java \-jar bfg.jar \--delete\-files 我是单个文件名字 hcses\-warehouse.git \--no\-blob\-protectionjava \-jar bfg.jar \--delete\-folders 我是文件夹的名字 hcses\-warehouse.git \--no\-blob\-protection</code></pre><h3 id="第四步-清理不需要的数据"><a href="#第四步-清理不需要的数据" class="headerlink" title="第四步 清理不需要的数据"></a>第四步 清理不需要的数据</h3><p>在完成上面的指令后，实际上这些数据 / 文件并没有被直接删除，这时候需要使用 git gc 指令来清除。</p><pre><code>cd hcses\-warehouse.gitgit reflog expire \--expire\=now \--all &amp;&amp; git gc \--prune\=now \--aggressive</code></pre><h3 id="第五步-推送到-GitHub"><a href="#第五步-推送到-GitHub" class="headerlink" title="第五步 推送到 GitHub"></a>第五步 推送到 GitHub</h3><pre><code>git push</code></pre><p>这里普通推送可能也会报错，我们可以使用强制推送。</p><pre><code>git push \--force</code></pre><p>本文参与<a href="https://cloud.tencent.com/developer/support-plan">腾讯云自媒体分享计划</a>，欢迎正在阅读的你也加入，一起分享。<br><a href="https://cloud.tencent.com/developer/article/1536481">https://cloud.tencent.com/developer/article/1536481</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>寻找并删除 Git 记录中的大文件 | Harttle Land</title>
       <link href="/2021/08/19/xun-zhao-bing-shan-chu-git-ji-lu-zhong-de-da-wen-jian-harttle-land/"/>
       <url>/2021/08/19/xun-zhao-bing-shan-chu-git-ji-lu-zhong-de-da-wen-jian-harttle-land/</url>
