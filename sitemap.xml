@@ -2,282 +2,360 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jlovec.net/2020/01/06/shan-chu-systemd-journal-ri-zhi/</loc>
+    <loc>https://jlovec.net/2021/04/22/adding-a-static-route-to-macos/</loc>
     
-    <lastmod>2021-09-03</lastmod>
+    <lastmod>2022-05-02</lastmod>
     
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2020/01/21/vue.js-bi-ji/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2020/11/23/docker-da-jian-svn/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2020/11/26/wu-fen-zhong-liao-jie-logql/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2020/12/08/nginx-zhi-proxy-pass-xiang-jie/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2020/12/08/go-zhi-ding-dns-ce-shi-dns-server-jie-xi-qing-kuang/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2020/12/08/quan-guo-dns/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2020/12/08/terrafrom-gen-ju-bian-liang-pan-duan-shi-fou-chuang-jian-zi-yuan/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2020/12/25/linux-da-wen-jian-pai-xu-qu-chong/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/2020/12/26/alfred-gong-zuo-liu-workflows-shi-li/</loc>
     
-    <lastmod>2021-09-03</lastmod>
+    <lastmod>2022-05-02</lastmod>
     
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2021/01/07/ubuntu-an-zhuang-python-3.6-3.7/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2021/02/01/nginx-pei-zhi-gen-ju-qing-qiu-ip-mo-duan-jin-xing-fen-liu-segmentfault-si-fou/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/2021/03/07/collecting-docker-logs-with-loki/</loc>
     
-    <lastmod>2021-09-03</lastmod>
+    <lastmod>2022-05-02</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://jlovec.net/2021/03/11/sso-chang-jing-xi-lie-shi-xian-microsoft-ad-dao-a-li-yun-de-dan-dian-deng-lu-a-li-yun-kai-fa-zhe-she-qu/</loc>
+    <loc>https://jlovec.net/2020/11/23/docker-da-jian-svn/</loc>
     
-    <lastmod>2021-09-03</lastmod>
+    <lastmod>2022-05-02</lastmod>
     
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2021/03/17/shi-yong-docker-da-jian-smtp-fu-wu/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2021/03/18/jenkins-fan-xiang-dai-li-pei-zhi-you-wu-wen-ti-xiu-fu/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2021/04/22/adding-a-static-route-to-macos/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2021/04/22/tcpdump-linux-zhua-http-qing-qiu-tou-a18827547638-de-bo-ke-csdn-bo-ke/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2021/05/12/maven-pom-files-without-a-version-in-it-softwareentwicklung-beratung-schulung/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2021/06/12/kubernetes-shan-chu-namespace-hou-yi-zhi-chu-yu-terminating-zhuang-tai/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2021/07/29/kubernetes-configuration-file-is-group-readable/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2021/07/29/jiang-da-bao-hao-de-helm-chart-push-zhi-nexus/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jlovec.net/2021/08/15/macbook-the-headers-or-library-files-could-not-be-found-for-zlib/</loc>
-    
-    <lastmod>2021-09-03</lastmod>
-    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/2021/08/19/git-qing-li-commit-zhong-li-shi-ti-jiao-de-da-wen-jian-yun-she-qu-teng-xun-yun/</loc>
     
-    <lastmod>2021-09-03</lastmod>
+    <lastmod>2022-05-02</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2021/07/29/kubernetes-configuration-file-is-group-readable/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2021/05/12/maven-pom-files-without-a-version-in-it-softwareentwicklung-beratung-schulung/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2021/02/01/nginx-pei-zhi-gen-ju-qing-qiu-ip-mo-duan-jin-xing-fen-liu-segmentfault-si-fou/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2021/03/11/sso-chang-jing-xi-lie-shi-xian-microsoft-ad-dao-a-li-yun-de-dan-dian-deng-lu-a-li-yun-kai-fa-zhe-she-qu/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2020/11/23/svn-chang-yong-ming-ling/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2021/01/07/ubuntu-an-zhuang-python-3.6-3.7/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2020/03/21/docker-jing-xiang-jia-su-pei-zhi/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2020/03/26/git-shan-chu-yuan-cheng-tag-fen-zhi/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2020/12/08/go-zhi-ding-dns-ce-shi-dns-server-jie-xi-qing-kuang/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2021/03/18/jenkins-fan-xiang-dai-li-pei-zhi-you-wu-wen-ti-xiu-fu/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2021/06/12/kubernetes-shan-chu-namespace-hou-yi-zhi-chu-yu-terminating-zhuang-tai/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2020/12/25/linux-da-wen-jian-pai-xu-qu-chong/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2021/08/15/macbook-the-headers-or-library-files-could-not-be-found-for-zlib/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2020/12/08/nginx-zhi-proxy-pass-xiang-jie/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2021/04/22/tcpdump-linux-zhua-http-qing-qiu-tou-a18827547638-de-bo-ke-csdn-bo-ke/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2020/12/08/terrafrom-gen-ju-bian-liang-pan-duan-shi-fou-chuang-jian-zi-yuan/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2020/11/26/wu-fen-zhong-liao-jie-logql/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2021/03/17/shi-yong-docker-da-jian-smtp-fu-wu/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2020/12/08/quan-guo-dns/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2020/01/06/shan-chu-systemd-journal-ri-zhi/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2021/07/29/jiang-da-bao-hao-de-helm-chart-push-zhi-nexus/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlovec.net/2020/01/21/vue.js-bi-ji/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/2021/08/21/kubectl-ji-qiao-zhi-tong-guo-jsonpath-jie-qu-shu-xing-zhou-guo-tong-bo-ke-yuan/</loc>
     
-    <lastmod>2021-09-03</lastmod>
+    <lastmod>2022-05-02</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/2021/09/03/running-spring-boot-apps-as-graalvm-native-images-codecentric-ag-blog/</loc>
     
-    <lastmod>2021-09-03</lastmod>
+    <lastmod>2022-05-02</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/404/index.html</loc>
     
-    <lastmod>2021-09-03</lastmod>
+    <lastmod>2022-05-02</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/about/index.html</loc>
     
-    <lastmod>2021-09-03</lastmod>
+    <lastmod>2022-05-02</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/articles/index.html</loc>
     
-    <lastmod>2021-09-03</lastmod>
+    <lastmod>2022-05-02</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/categories/index.html</loc>
     
-    <lastmod>2021-09-03</lastmod>
+    <lastmod>2022-05-02</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/contact/index.html</loc>
     
-    <lastmod>2021-09-03</lastmod>
+    <lastmod>2022-05-02</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/data/friends.json</loc>
     
-    <lastmod>2021-09-03</lastmod>
+    <lastmod>2022-05-02</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/data/index.html</loc>
     
-    <lastmod>2021-09-03</lastmod>
+    <lastmod>2022-05-02</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/friends/index.html</loc>
     
-    <lastmod>2021-09-03</lastmod>
+    <lastmod>2022-05-02</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/tags/index.html</loc>
     
-    <lastmod>2021-09-03</lastmod>
+    <lastmod>2022-05-02</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/timeline/index.html</loc>
     
-    <lastmod>2021-09-03</lastmod>
+    <lastmod>2022-05-02</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
 
   <url>
     <loc>https://jlovec.net/</loc>
-    <lastmod>2021-09-03</lastmod>
+    <lastmod>2022-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -285,179 +363,179 @@
   
   <url>
     <loc>https://jlovec.net/tags/svn/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/tags/docker/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/tags/image/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/tags/git/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/tags/dns/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/tags/go/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/tags/nginx/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/tags/terrafrom/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/tags/logging/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/tags/logql/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/tags/loki/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/tags/grafana/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/tags/systemd/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/tags/log/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/tags/vue/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/tags/nodejs/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
 
   
   <url>
     <loc>https://jlovec.net/categories/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/categories/docker/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/categories/go/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/categories/linux/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/categories/terrafrom/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/categories/logging/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/categories/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jlovec.net/categories/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2021-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
 </urlset>
