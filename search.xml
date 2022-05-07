@@ -73,7 +73,7 @@
       <link href="/2021/07/29/kubernetes-configuration-file-is-group-readable/"/>
       <url>/2021/07/29/kubernetes-configuration-file-is-group-readable/</url>
       
-        <content type="html"><![CDATA[<pre><code>&gt;&lt;&gt; chmod go-r ~/.kube/config</code></pre><p><a href="https://github.com/helm/helm/issues/9115">https://github.com/helm/helm/issues/9115</a></p>]]></content>
+        <content type="html"><![CDATA[<pre class=" language-bash"><code class="language-bash"><span class="token function">chmod</span> go-r ~/.kube/config</code></pre><p><a href="https://github.com/helm/helm/issues/9115">https://github.com/helm/helm/issues/9115</a></p>]]></content>
       
       
       
